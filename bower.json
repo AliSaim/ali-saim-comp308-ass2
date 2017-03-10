@@ -1,9 +1,9 @@
 {
-  "name": "comp308-w2017-lesson5A",
-  "description": "## Welcome to Lesson 5 - CRUD with Mongoose and MongoDB",
+  "name": "ali saim comp308-assignment2",
+  "description": "## Authentication with Passport - Assignment 2 for Comp308",
   "main": "server.js",
   "authors": [
-    "Tom Tsiliopoulos"
+    "Ali Saim"
   ],
   "license": "ISC",
   "keywords": [
@@ -11,7 +11,7 @@
     "ExpressJS",
     "EJS"
   ],
-  "homepage": "https://github.com/CentennialCollege/COMP308-W2017-Lesson5A",
+  "homepage": "https://github.com/AliSaim/ali-saim-comp308-ass2.git",
   "ignore": [
     "**/.*",
     "node_modules",
